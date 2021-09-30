@@ -1,0 +1,8 @@
+.nav-link{
+color:white !important;
+}
+
+.nav-link:hover,.navbar-brand:hover{
+color:yellow !important;
+}
+h2{color:blue}
